@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 我是北海鱼
+- Github https://github.com/BeiHai-yu
+- CSDN   https://blog.csdn.net/qq_44774831 
 
+### 目前状态
+    即将入职前端开发工程师的菜鸡，希望能和同行多多交流！
+    
 <!--
 **BeiHai-yu/BeiHai-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
